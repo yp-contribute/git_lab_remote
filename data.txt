@@ -1,0 +1,5 @@
+Q3. Clone Repository and Make Changes
+Clone the repository git_lab_remote to a new directory.
+Create a new file data.txt and add some sample content.
+Add and commit the file with message "Added data file" .
+Push the changes back to GitHub.
